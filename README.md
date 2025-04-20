@@ -1,7 +1,7 @@
 # test-template-html
 
-# Install dependency
+## Install dependency
 npm install
 
-# Run local
+## Run local
 npm start
